@@ -10,12 +10,12 @@ I wrote code to import the data and answer interesting questions about it by com
 I wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
-Stackoverflow
+- [Stackoverflow](https://stackoverflow.com)
 
 ### License
-Bikeshare is distributed under the MIT license.
+Bikeshare is distributed under the [MIT license](LICENSE.md).
