@@ -16,6 +16,8 @@ I wrote a script that takes in raw input to create an interactive experience in 
 
 ### Credits
 - [Stackoverflow](https://stackoverflow.com)
+- [Datatype using the pandas](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html)
+- [Extracting properties such as the hour](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)
 
 ### License
 Bikeshare is distributed under the [MIT license](LICENSE.md).
